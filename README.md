@@ -1,5 +1,5 @@
 # tesseract-easy-example
 
-    This is bmp to text with OCR.
+    This convet bmp to text with OCR.
 
   
